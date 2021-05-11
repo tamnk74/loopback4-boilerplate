@@ -57,7 +57,7 @@
     "@loopback/rest-explorer": "^2.2.4",
     "@loopback/service-proxy": "^2.3.2",
     "bcryptjs": "^2.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "loopback-connector-mongodb": "^5.2.3",
     "tslib": "^2.0.0"
   },
